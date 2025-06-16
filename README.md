@@ -15,6 +15,7 @@
 
 💼 Projects I've built:
 - 🛠️ [Avto Xizmatlar](https://avtoxizmatlar.pythonanywhere.com)
+- ❔ [DailQuiz 👩‍💻](https://dailyquiz.pythonanywhere.com)
 - 🏫 [28-IDUMI School Site](https://28idumi.uz)
 - 🛍️ Store, Quiz, and more hosted on [Netlify](https://www.netlify.com/)
 
